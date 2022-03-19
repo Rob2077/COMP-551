@@ -1,0 +1,1 @@
+This is a repository for COMP 551 coding examples.
